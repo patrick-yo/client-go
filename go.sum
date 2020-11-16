@@ -184,6 +184,10 @@ github.com/onsi/ginkgo v1.11.0/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+
 github.com/onsi/gomega v0.0.0-20170829124025-dcabb60a477c/go.mod h1:C1qb7wdrVGGVU+Z6iS04AVkA3Q65CEZX59MT0QO5uiA=
 github.com/onsi/gomega v1.7.0 h1:XPnZz8VVBHjVsy1vzJmRwIcSwiUO+JFfrv/xGiigmME=
 github.com/onsi/gomega v1.7.0/go.mod h1:ex+gbHU/CVuBBDIJjb2X0qEXbFg53c61hWP/1CpauHY=
+github.com/owenliang/k8s-client-go v0.0.0-20190606090414-8bde811a1146 h1:GOPyGFpH9VByjPUTntRJXLjCDBJlbKvzlVf44pEUDsk=
+github.com/owenliang/k8s-client-go v0.0.0-20190606090414-8bde811a1146/go.mod h1:G+ot3XvUVVC6ct7IJsnXSe8LZ7uwg3p3xpB5+wVKWi0=
+github.com/patrick-yo/client-go v1.5.1 h1:BZJw7pLGeVV4qATCUXNtvyT6Wkg19SgFJXv+lw7IN8g=
+github.com/patrick-yo/client-go v11.0.0+incompatible h1:nGmS7azIGu97LvMwqqUDqbxt8oBkJT/UNhGQ06cijo8=
 github.com/peterbourgon/diskv v2.0.1+incompatible h1:UBdAOUP5p4RWqPBg048CAvpKN+vxiaj6gdUUzhl4XmI=
 github.com/peterbourgon/diskv v2.0.1+incompatible/go.mod h1:uqqh8zWWbv1HBMNONnaR/tNboyR3/BZd58JJSHlUSCU=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
@@ -433,7 +437,9 @@ honnef.co/go/tools v0.0.0-20190418001031-e561f6794a2a/go.mod h1:rf3lG4BRIbNafJWh
 honnef.co/go/tools v0.0.0-20190523083050-ea95bdfd59fc/go.mod h1:rf3lG4BRIbNafJWhAfAdb/ePZxsR/4RtNHQocxwk9r4=
 honnef.co/go/tools v0.0.1-2019.2.3/go.mod h1:a3bituU0lyd329TUQxRnasdCoJDkEUEAqEt0JzvZhAg=
 honnef.co/go/tools v0.0.1-2020.1.3/go.mod h1:X/FiERA/W4tHapMX5mGpAtMSVEeEUOyHaw9vFzvIQ3k=
+k8s.io/api v0.0.0-20201114085527-4a626d306b98 h1:/btoGR7qMaxu62LVwFM731kheSr7yQjaKU4ukT13W9I=
 k8s.io/api v0.0.0-20201114085527-4a626d306b98/go.mod h1:Vaqh9qFKpET0Mx+jNQHyAcNFyvwkGvuIKOt2htB36BQ=
+k8s.io/apimachinery v0.0.0-20201114085355-859536f6dc9b h1:gOw7BPeDeUTkY9Re/fAodKZ+7DJ11kjG70Q1/aYbbxc=
 k8s.io/apimachinery v0.0.0-20201114085355-859536f6dc9b/go.mod h1:WlLqWAHZGg07AeltaI0MV5uk1Omp8xaN0JGLY6gkRpU=
 k8s.io/gengo v0.0.0-20200413195148-3a45101e95ac/go.mod h1:ezvh/TsK7cY6rbqRK0oQQ8IAqLxYwwyPxAX1Pzy0ii0=
 k8s.io/klog/v2 v2.0.0/go.mod h1:PBfzABfn139FHAV07az/IF9Wp1bkk3vpT2XSJ76fSDE=
